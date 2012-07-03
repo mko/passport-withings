@@ -1,0 +1,16 @@
+{
+  "name": "passport-withings",
+  "version": "0.1.0",
+  "description": "Withings authentication strategy for Passport.",
+  "author": "Michael Owens <mk@mowens.com> (http://mowens.com/)",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/mowens/passport-mowens.git"
+  },
+  "main": "./lib/passport-withings",
+  "dependencies": {
+    "passport-oauth": ">= 0.1.0"
+  },
+  "engines": { "node": ">= 0.4.0" },
+  "keywords": ["passport", "withings", "oauth", "auth", "authn", "authentication", "identity"]
+}
