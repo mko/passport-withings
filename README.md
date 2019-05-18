@@ -1,5 +1,7 @@
 # Passport-Withings
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mko/passport-withings.svg)](https://greenkeeper.io/)
+
 [Passport](https://github.com/jaredhanson/passport) strategy for authenticating
 with [Withings](https://my.withings.com) using the OAuth 1.0a API.
 
